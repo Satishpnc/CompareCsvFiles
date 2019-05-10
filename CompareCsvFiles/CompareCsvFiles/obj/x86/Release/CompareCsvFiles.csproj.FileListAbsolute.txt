@@ -1,0 +1,3 @@
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/bin/Release/CompareCsvFiles.exe
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/obj/x86/Release/CompareCsvFiles.csproj.CoreCompileInputs.cache
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/obj/x86/Release/CompareCsvFiles.exe

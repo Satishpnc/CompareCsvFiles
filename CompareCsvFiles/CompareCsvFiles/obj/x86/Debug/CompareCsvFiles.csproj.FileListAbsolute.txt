@@ -1,0 +1,5 @@
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/bin/Debug/CompareCsvFiles.exe
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/bin/Debug/CompareCsvFiles.pdb
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/obj/x86/Debug/CompareCsvFiles.csproj.CoreCompileInputs.cache
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/obj/x86/Debug/CompareCsvFiles.exe
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/obj/x86/Debug/CompareCsvFiles.pdb

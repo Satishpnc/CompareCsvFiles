@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareCsvFiles", "CompareCsvFiles\CompareCsvFiles.csproj", "{3C549D6E-1BBA-4F79-B819-39B0FF0121E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareCSVFilesUnitTest", "CompareCSVFilesUnitTest\CompareCSVFilesUnitTest.csproj", "{FBA8F7F7-07BE-43CC-AE91-98B86F65FC2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{3C549D6E-1BBA-4F79-B819-39B0FF0121E0}.Debug|x86.Build.0 = Debug|x86
 		{3C549D6E-1BBA-4F79-B819-39B0FF0121E0}.Release|x86.ActiveCfg = Release|x86
 		{3C549D6E-1BBA-4F79-B819-39B0FF0121E0}.Release|x86.Build.0 = Release|x86
+		{FBA8F7F7-07BE-43CC-AE91-98B86F65FC2C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FBA8F7F7-07BE-43CC-AE91-98B86F65FC2C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FBA8F7F7-07BE-43CC-AE91-98B86F65FC2C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FBA8F7F7-07BE-43CC-AE91-98B86F65FC2C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,26 +1,24 @@
 ﻿<Properties StartupConfiguration="{3C549D6E-1BBA-4F79-B819-39B0FF0121E0}|Default">
   <MonoDevelop.Ide.ItemProperties.CompareCsvFiles PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CompareCsvFiles/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.CompareCSVFilesUnitTest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompareCSVFilesUnitTest/UnitTest.cs">
     <Files>
-      <File FileName="CompareCsvFiles/Program.cs" Line="18" Column="54" />
+      <File FileName="CompareCsvFiles/Program.cs" Line="34" Column="18" />
+      <File FileName="CompareCSVFilesUnitTest/UnitTest.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CompareCsvFiles" expanded="True">
-            <Node name="CompareCsvFiles" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="CompareCsvFiles" expanded="True" selected="True">
+            <Node name="CompareCsvFiles" expanded="True" />
+            <Node name="CompareCSVFilesUnitTest" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

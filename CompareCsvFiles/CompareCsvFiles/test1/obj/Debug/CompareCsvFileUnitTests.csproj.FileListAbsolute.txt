@@ -1,0 +1,10 @@
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/bin/Debug/test1.dll
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/bin/Debug/test1.pdb
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/bin/Debug/CompareCsvFiles.exe
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/bin/Debug/nunit.framework.dll
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/bin/Debug/CompareCsvFiles.pdb
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/bin/Debug/nunit.framework.xml
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/obj/Debug/CompareCsvFileUnitTests.csproj.CoreCompileInputs.cache
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/obj/Debug/CompareCsvFileUnitTests.csproj.CopyComplete
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/obj/Debug/test1.dll
+/Users/peddasna/Projects/CompareCsvFiles/CompareCsvFiles/test1/obj/Debug/test1.pdb
